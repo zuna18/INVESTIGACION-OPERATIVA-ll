@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "test:dijkstra": "npx ts-node --project tsconfig.cjs.json src/graphs/algorithms/DijkstraTest.ts"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^19.1.1",
